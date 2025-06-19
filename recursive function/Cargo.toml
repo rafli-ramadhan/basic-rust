@@ -6,5 +6,5 @@ edition = "2024"
 [dependencies]
 
 [[bin]]
-name = "variable"
+name = "app"
 path = "main.rs"
