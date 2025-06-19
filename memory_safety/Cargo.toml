@@ -1,0 +1,10 @@
+[package]
+name = "memory_safety"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[[bin]]
+name = "variable"
+path = "./cmd/main.rs"

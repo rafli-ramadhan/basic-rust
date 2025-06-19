@@ -1,0 +1,10 @@
+[package]
+name = "recursive_function"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[[bin]]
+name = "variable"
+path = "main.rs"
