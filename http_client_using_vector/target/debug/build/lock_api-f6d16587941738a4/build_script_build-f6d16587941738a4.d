@@ -1,0 +1,5 @@
+/home/rafliramadhan/Documents/GitHub/basic-rust/http_client/target/debug/build/lock_api-f6d16587941738a4/build_script_build-f6d16587941738a4: /home/rafliramadhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.13/build.rs
+
+/home/rafliramadhan/Documents/GitHub/basic-rust/http_client/target/debug/build/lock_api-f6d16587941738a4/build_script_build-f6d16587941738a4.d: /home/rafliramadhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.13/build.rs
+
+/home/rafliramadhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.13/build.rs:
